@@ -11,7 +11,7 @@ Après avoir créé les users-stories correspondant à notre dossier de spécifi
 
 Voilà donc à quoi ressemble une partie de ce diagramme de Gant : 
 
-![image du calendrier](./img/gant)
+![image du calendrier](./img/gant.png)
 
 Et voilà donc mon planning dans l'onglet calendrier : 
 
